@@ -15,7 +15,7 @@ to run the server on the local environment, please install the following:
 Kindly check all the dependencies mentioned on package.json and install them prior to running the server.
 
 ## References
-### Server Side: 
+## Server Side: 
 - requiring the needed libraries : express, cors, body-parser and Project Environment Setup was done as explained in Lesson 2: Node & Express Environment with additon from my side by adding hostname. (MDN)
 - APP API Endpoint: ProjectData is created on the starter code by Udacity
 - GET Route and POST Route are adopted from the examples as explained in Lesson 3: HTTP Requests and Routes.
